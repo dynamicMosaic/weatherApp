@@ -1,0 +1,20 @@
+
+body, html {
+    height: 100%;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("https://dynamicmosaic.github.io/weatherApp/weatherApp/assets/images/galaxy-note8_design_planet.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+    
